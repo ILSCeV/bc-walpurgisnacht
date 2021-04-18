@@ -32,12 +32,6 @@
          "id":1,
          "name":"maze_layer",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"WapuginaFlur.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":42,
@@ -50,6 +44,12 @@
          "id":6,
          "name":"exitFlur",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"WapuginaFlur.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":42,
