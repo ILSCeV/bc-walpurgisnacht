@@ -193,7 +193,13 @@
                          "duration":5000,
                          "tileid":4
                         }],
-                 "id":14
+                 "id":14,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
