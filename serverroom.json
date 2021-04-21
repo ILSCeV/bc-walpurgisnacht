@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"serverroom.json"
         }
     },
  "height":15,
@@ -181,7 +182,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/localhost:8080\/matrix.json"
+                 "value":"https:\/\/play.world.fem-net.de\/_\/global\/ilscev.github.io\/bc-walpurgisnacht\/matrix.json"
                 }],
          "type":"tilelayer",
          "visible":true,
