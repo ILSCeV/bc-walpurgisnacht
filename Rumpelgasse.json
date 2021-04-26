@@ -20,6 +20,17 @@
          "id":12,
          "name":"utils_jitsi1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"rumpel1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":27,
@@ -32,8 +43,19 @@
          "id":13,
          "name":"utils_jitsi2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"rumpel2"
+                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -44,8 +66,19 @@
          "id":14,
          "name":"utils_jitsi3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"rumpel3"
+                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -56,6 +89,35 @@
          "id":15,
          "name":"utils_jitsi4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"rumpel4"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":27,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2209, 2209, 2209, 2209, 2209, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2209, 2209, 2209, 2209, 2209, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2209, 2209, 2209, 2209, 2209, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":17,
+         "id":16,
+         "name":"url_schlammbowle",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/etherpad.wikimedia.org\/p\/schlammbowle"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":27,
@@ -87,7 +149,7 @@
          "name":"utils_gateB",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -99,7 +161,7 @@
          "name":"utils_gateA",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -111,7 +173,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -123,7 +185,7 @@
          "name":"W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -135,7 +197,7 @@
          "name":"M\u00f6bel layer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -147,7 +209,7 @@
          "name":"M\u00f6bel layer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":27,
          "x":0,
          "y":0
@@ -187,7 +249,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
