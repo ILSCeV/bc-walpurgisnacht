@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+  font: 20px/1.0 VT323, Courier Prime, Courier, Arial, Helvetica, sans-serif;
+  padding:0;
+  margin:20px;
+  background-color:#000000;
+	color:#FFFFFF;
+}
+
+hr {
+    width: 100%;
+    height: 0px;
+    margin: 0 ;
+    color: #FFFFFF;
+    background: #FFFFFF;
+}
+
+a{
+  color:#FFFFFF;
+}
+
+#blink {
+  animation: blink 1s linear infinite;
+}
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 0;
+  }
+  50.01%, 100% {
+    opacity: 1;
+  }
+}
+
+.indent1 {margin-left:10px;}
