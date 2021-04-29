@@ -46,6 +46,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Pyramide"
@@ -63,6 +73,16 @@
          "name":"jitsi_monolith",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -82,6 +102,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#067d26\" } "
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Sph\u00e4re"
@@ -99,6 +129,16 @@
          "name":"jitsi_vt",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startAudioOnly\": false }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
