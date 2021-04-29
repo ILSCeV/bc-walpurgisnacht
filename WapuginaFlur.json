@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Rumpelgasse.json"
+                 "value":"Rumpelgasse.json#entryFlur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -230,6 +230,22 @@
          "id":24,
          "name":"Url Laden 2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"bilderflur\/laden2.png"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccken sie die LEERTASTE um den Laden zu betreten.\nPress SPACE to enter the shop."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":68,
