@@ -234,7 +234,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"bilderflur\/laden2.png"
+                 "value":"bilderflur\/laden2.svg"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
