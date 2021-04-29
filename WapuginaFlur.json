@@ -148,6 +148,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
+                {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"DEFAULT_BACKGROUND\": \"#FFA500\" } "
@@ -170,6 +175,11 @@
          "name":"Jitsi Gasse",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",

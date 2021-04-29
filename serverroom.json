@@ -48,6 +48,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Veteranentisch"

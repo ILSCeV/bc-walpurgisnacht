@@ -22,6 +22,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\"startAudioOnly\": false}"
+                }, 
+                {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"DEFAULT_BACKGROUND\": \"#00ed08\" } "
@@ -210,7 +215,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
@@ -222,7 +227,7 @@
          "name":"W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":27,
          "x":0,
          "y":0
