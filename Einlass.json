@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/engelsystem.de\/a38\/"
+                 "value":"static\/einlasspiel.html"
                 }],
          "type":"tilelayer",
          "visible":true,
