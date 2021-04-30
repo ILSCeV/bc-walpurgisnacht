@@ -336,7 +336,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Rumpelgasse.json#cyberspace"
+                 "value":"Rumpelgasse.json#entryCyberspace"
                 }],
          "type":"tilelayer",
          "visible":true,
