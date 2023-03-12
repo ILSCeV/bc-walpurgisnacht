@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@workadventure/iframe-api-typings": "^1.2.1",
-    "eslint": "^7.24.0",
+    "eslint": "^8.0.0",
     "html-webpack-plugin": "^5.3.1",
     "ts-loader": "^8.1.0",
     "ts-node": "^10.0.0",
