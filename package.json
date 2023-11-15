@@ -7,7 +7,7 @@
     "@workadventure/iframe-api-typings": "1.17.7",
     "eslint": "8.53.0",
     "html-webpack-plugin": "5.5.3",
-    "ts-loader": "9.5.0",
+    "ts-loader": "9.5.1",
     "ts-node": "10.9.1",
     "typescript": "5.2.2",
     "webpack": "5.89.0",
