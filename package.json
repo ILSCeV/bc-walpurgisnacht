@@ -6,7 +6,7 @@
   "devDependencies": {
     "@workadventure/iframe-api-typings": "1.17.7",
     "eslint": "8.54.0",
-    "html-webpack-plugin": "5.5.4",
+    "html-webpack-plugin": "5.6.0",
     "ts-loader": "9.5.1",
     "ts-node": "10.9.2",
     "typescript": "5.2.2",
