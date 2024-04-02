@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@workadventure/iframe-api-typings": "1.18.9",
+    "@workadventure/iframe-api-typings": "1.18.10",
     "eslint": "8.57.0",
     "html-webpack-plugin": "5.6.0",
     "ts-loader": "9.5.1",
